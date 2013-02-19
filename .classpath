@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/htmlparser/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser/htmllexer.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser/thumbelina.jar"/>
+	<classpathentry kind="lib" path="lib/jsonsimple/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/fluent-hc-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/httpclient-cache-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient/httpmime-4.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
