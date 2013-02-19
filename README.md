@@ -36,5 +36,6 @@ Components：
 
 ### CONTACT US
 
-Any question please send an email to mystery.wd#qq.com
-Thanks for looking up the water meter but we have it installed inside :).
+Any question please send an email to mystery.wd#qq.com.
+
+Thanks for looking up the water meter but we have it installed outside and we don't accept any express mail. :)
